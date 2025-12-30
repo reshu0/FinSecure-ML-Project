@@ -4,3 +4,4 @@ xgboost
 streamlit
 sqlalchemy
 matplotlib
+imbalanced-learn

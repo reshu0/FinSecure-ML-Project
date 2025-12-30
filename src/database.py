@@ -33,7 +33,7 @@ def create_database():
     
     # Generate synthetic data
     np.random.seed(42)
-    n_records = 1000
+    n_records = 10000
     
     # Generate realistic loan data
     data = {
